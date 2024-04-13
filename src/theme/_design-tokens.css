@@ -1,0 +1,95 @@
+:root {
+  /* Colors */
+  --color-white: #ffffff;
+  --color-white-30a: rgba(255, 255, 255, 0.3);
+  --color-smoke-white: #e5e5e5;
+  --color-mid-gray: rgba(109, 109, 110, 0.7);
+  --color-gray: #808080;
+  --color-black: #141414;
+  --color-red: #b9090b;
+
+  /* Easings */
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Font Families */
+  --font-family-sans: Roboto, sans-serif;
+  --font-family-serif: Spectral, serif;
+
+  /* Font Weights */
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+
+  /* Font Sizes */
+  --font-xs: 0.75rem;
+  --font-sm: 0.875rem;
+  --font-base: 1rem;
+  --font-lg: 1.125rem;
+  --font-xl: 1.25rem;
+  --font-2xl: 1.5rem;
+  --font-3xl: 1.875rem;
+  --font-4xl: 2.25rem;
+  --font-5xl: 3rem;
+  --font-6xl: 3.5rem;
+  --font-7xl: 4rem;
+  --font-8xl: 4.5rem;
+  --font-9xl: 5rem;
+  --font-10xl: 6rem;
+
+  /* Letter Spacing */
+  --letter-spacing-tighter: -0.05em;
+  --letter-spacing-tight: -0.025em;
+  --letter-spacing-normal: 0em;
+  --letter-spacing-wide: 0.025em;
+  --letter-spacing-wider: 0.05em;
+  --letter-spacing-widest: 0.1em;
+
+  /* Line Height */
+  --line-height-negative: 0.9;
+  --line-height-none: 1;
+  --line-height-tight: 1.15;
+  --line-height-snug: 1.2;
+  --line-height-normal: 1.25;
+  --line-height-relaxed: 1.35;
+
+  /* Border Radius */
+  --radius-xs: 4px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-round: 100%;
+
+  /* Stroke */
+  --stroke-0-5: 0.5px;
+  --stroke-1: 1px;
+  --stroke-1-5: 1.5px;
+  --stroke-2: 2px;
+
+  /* Spacing */
+  --spacing-0-25: 0.25rem;
+  --spacing-0-5: 0.5rem;
+  --spacing-0-75: 0.75rem;
+  --spacing-1: 1rem;
+  --spacing-1-25: 1.25rem;
+  --spacing-1-5: 1.5rem;
+  --spacing-2: 2rem;
+  --spacing-2-5: 2.5rem;
+  --spacing-3: 3rem;
+  --spacing-3-5: 3.5rem;
+  --spacing-4: 4rem;
+  --spacing-4-5: 4.5rem;
+  --spacing-5: 5rem;
+  --spacing-6: 6rem;
+  --spacing-7: 7rem;
+  --spacing-8: 8rem;
+  --spacing-9: 9rem;
+  --spacing-10: 10rem;
+  --spacing-15: 15rem;
+  --spacing-17-5: 17.5rem;
+  --spacing-20: 20rem;
+  --spacing-25: 25rem;
+  --spacing-30: 30rem;
+}

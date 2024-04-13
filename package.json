@@ -33,7 +33,6 @@
     "eslint": "^8",
     "eslint-config-next": "14.2.1",
     "eslint-plugin-storybook": "^0.8.0",
-    "postcss-custom-media": "^10.0.4",
     "postcss-preset-env": "^9.5.5",
     "storybook": "^8.0.8",
     "typescript": "^5"
